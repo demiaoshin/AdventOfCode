@@ -12,9 +12,5 @@ for i in range(0, len(instructions)):
     else:
         continue
 
-# depth += sum([-int(instructions[i][1]) if str(instructions[i][0]) == "down" and
-#                                               str(instructions[i][0]) != "forward" else int(instructions[i][1])])
-# car = [int(i) for i in instructions[i][i + 1] if instructions[i] == "forward"]
-
 
 print(f"{hp * depth}")
