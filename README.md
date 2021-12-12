@@ -9,3 +9,6 @@ Quick links:
 [Day 3](Day3/task2.py)
 
 [Day 4](Day4/task1.py)
+
+[Day 6](Day6/task1.py)
+
