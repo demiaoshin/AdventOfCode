@@ -7,3 +7,5 @@ Quick links:
 [Day 2](Day2/task2.py)
 
 [Day 3](Day3/task2.py)
+
+[Day 4](Day4/task1.py)
